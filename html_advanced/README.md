@@ -1,0 +1,1 @@
+This is a Smile website landing page, It consist of videos, mentors and infomative messages
